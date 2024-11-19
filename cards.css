@@ -1,0 +1,7 @@
+.card {
+    animation: backInDown 2s ease;
+}
+
+.card:hover {
+    animation: bounchIn 2s ease;
+}
